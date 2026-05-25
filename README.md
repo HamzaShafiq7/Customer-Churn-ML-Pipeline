@@ -107,7 +107,7 @@ predictions = pipeline.predict(new_data)
 
 ## 📁 Repository Structure
 ```
-├── Customer_Churn_ML_Pipeline.ipynb
+├── Churn_Pipeline.ipynb
 ├── README.md          
 └── churn_pipeline.pkl
 ```
