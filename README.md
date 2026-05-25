@@ -57,11 +57,9 @@ Build a fully automated, end-to-end ML pipeline that preprocesses data, trains c
 ## 📊 Evaluation Metrics
 | Model | Accuracy | F1 Score | ROC-AUC |
 |---|---|---|---|
-| Logistic Regression | — | — | — |
-| Random Forest | — | — | — |
-| Tuned Random Forest | — | — | — |
-
-*(Fill in after running the notebook)*
+| Logistic Regression | 0.80 | 0.60 | 0.84 |
+| Random Forest | 0.78 | 0.53 | 0.81 |
+| Tuned Random Forest | 0.80 | 0.58 | 0.84 |
 
 ---
 
@@ -113,8 +111,3 @@ predictions = pipeline.predict(new_data)
 ├── churn_pipeline.pkl           ← exported after running the notebook
 └── README.md
 ```
-
----
-
-## 👤 Author – Hamza
-AI/ML Engineering Intern – DevelopersHub Corporation
