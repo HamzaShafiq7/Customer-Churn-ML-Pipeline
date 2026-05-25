@@ -93,7 +93,7 @@ https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 
 ### Steps
 1. Upload `WA_Fn-UseC_-Telco-Customer-Churn.csv` to your working directory
-2. Open `Customer_Churn_ML_Pipeline.ipynb`
+2. Open `Churn_Pipeline.ipynb`
 3. Run all cells in order
 
 ### Load the Exported Pipeline
